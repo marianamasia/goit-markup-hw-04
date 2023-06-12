@@ -695,6 +695,10 @@ img {
   transform: translateY(0%);
 }
 
+.section:focus .section-cover-text {
+  transform: translateY(0%);
+}
+
 .section-activity {
   font-weight: 500;
   font-size: 20px;
