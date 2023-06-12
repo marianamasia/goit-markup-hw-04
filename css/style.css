@@ -440,7 +440,6 @@ img {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--logo-color);
-  margin-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -686,7 +685,8 @@ img {
   overflow: hidden;
 }
 
-.section-work:hover .section-cover-text {
+.section-work:hover .section-cover-text,
+.section-work:focus .section-cover-text {
   transform: translate(0);
 }
 
