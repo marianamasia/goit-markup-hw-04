@@ -423,15 +423,15 @@ img {
   background-color: #404bbf;
 }
 
-.costomers {
+.customers {
   padding-top: 120px;
   padding-bottom: 120px;
 }
 
-.costomers-container {
+/* .customers-container {
   padding-top: 120px;
   padding-bottom: 120px;
-}
+} */
 
 .customers-title {
   font-size: 36px;
@@ -687,7 +687,7 @@ img {
 
 .section-work:hover .section-cover-text,
 .section-work:focus .section-cover-text {
-  transform: translate(0);
+  transform: translateY(0%);
 }
 
 .section-activity {
