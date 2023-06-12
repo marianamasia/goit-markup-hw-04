@@ -156,12 +156,16 @@ img {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.header-contacts {
+}
+
 .header-link-soc {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .header-link-soc:hover,
@@ -418,11 +422,11 @@ img {
   background-color: #404bbf;
 }
 
-.costumers {
+.costomers {
   padding: 120px 0;
 }
 
-.costumers-container {
+.costomers-container {
   padding-bottom: 120px;
 }
 
